@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sbkcommon" />
+        <module name="sbkmanagerdao" />
+        <module name="sbkmanagerinterface" />
+        <module name="sbkmanagerpojo" />
+        <module name="sbkmanagerservice" />
+        <module name="sbkmanagerweb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sbk-manager-interface" target="1.8" />
+      <module name="sbkmanagerinterface" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
