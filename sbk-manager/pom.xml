@@ -16,7 +16,6 @@
         <module>sbk-manager-pojo</module>
         <module>sbk-manager-dao</module>
         <module>sbk-manager-service</module>
-        <module>sbk-manager-web</module>
         <module>sbk-manager-interface</module>
     </modules>
 
@@ -36,7 +35,7 @@
                 <artifactId>tomcat7-maven-plugin</artifactId>
                 <configuration>
                     <path>/</path>
-                    <port>8080</port>
+                    <port>8081</port>
                 </configuration>
             </plugin>
         </plugins>

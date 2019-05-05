@@ -10,6 +10,18 @@
     <modules>
         <module>sbk-common</module>
         <module>sbk-manager</module>
+        <module>sbk-manager-web</module>
+        <module>sbk-enter-web</module>
+        <module>sbk-content</module>
+        <module>sbk-search</module>
+        <module>sbk-search-web</module>
+        <module>sbk-item-web</module>
+        <module>sbk-sso</module>
+        <module>sbk-sso-web</module>
+        <module>sbk-cart</module>
+        <module>sbk-cart-web</module>
+        <module>sbk-order</module>
+        <module>sbk-order-web</module>
     </modules>
     <packaging>pom</packaging>
 
